@@ -14,7 +14,7 @@ body {
       background-color: rgb(19, 17, 17); /* Box background color */
       width: 300px; /* The size you want the box to be */
       padding: 20px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional; add shadow for better visibility */
+      box-shadow: 0 0 10px rgba(0.4, 0.4, 0, 0.9); /* Optional; add shadow for better visibility */
       border-radius: 10px; /* Optional; for rounded edges */
       display: flex;
       flex-direction: column;
